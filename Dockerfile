@@ -1,4 +1,4 @@
-FROM java:8u45-jre
+FROM java:8u72-jre
 
 ENV DEBIAN_FRONTEND noninteractive
 
